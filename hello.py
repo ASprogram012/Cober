@@ -1,2 +1,3 @@
-print("What Up Y alll!!!! ")
+print("it is wrong")
 Print("r u rhere")
+print
